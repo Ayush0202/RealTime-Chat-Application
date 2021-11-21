@@ -30,5 +30,6 @@
 * An instance of the application will appear in the browser.
 
 <img src="images/ScreenShot1.png">
+<img src="images/ScreenShot3.PNG">
 <img src="images/ScreenShot2.png">
 
