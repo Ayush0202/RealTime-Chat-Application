@@ -2,7 +2,7 @@
 
 ## Node.js based Web Application ##
 
-* It is a scalable Realtime Chatting Application using Node.js and Socket.io that provides an interface for multiple user chatting at the same time.
+It is a scalable Realtime Chatting Application using Node.js and Socket.io that provides an interface for multiple user chatting at the same time.
 
 ### Technologies Used ###
 * __FrontEnd Technologies__- HTML, CSS
