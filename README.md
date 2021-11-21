@@ -29,6 +29,6 @@
 * Right click anywhere in the file __index.html__ and from the menu that appears select __'Open with Live server'__.
 * An instance of the application will appear in the browser.
 
-<img src="images/ScreenShot1.PNG">
-<img src="images/ScreenShot2.PNG">
+<img src="images/ScreenShot1.png">
+<img src="images/ScreenShot2.png">
 
