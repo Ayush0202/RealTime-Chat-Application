@@ -24,7 +24,7 @@ It is a scalable Realtime Chatting Application using Node.js and Socket.io that 
 
 #### Steps ####
 * Clone the repositry
-* Run nodemon __nodeServer/indes.js__
+* Run nodemon __nodeServer/index.js__
 * Navigate to __index.html__ and open it.
 * Right click anywhere in the file __index.html__ and from the menu that appears select __'Open with Live server'__.
 * An instance of the application will appear in the browser.
